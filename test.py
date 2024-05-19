@@ -46,6 +46,21 @@ responses = {
     "how do I stay motivated?": "Set goals, break tasks into smaller steps, and reward yourself.",
     "can you help me with math homework?": "Sure! What math problem do you need help with?",
     "nitesh kaisa hai": "Azad hai vo ",
+    "What are your hours of operation?": "We are open from 9 AM to 5 PM, Monday through Friday.",
+    "How can I contact customer support?": "You can reach our customer support by emailing support@example.com or calling (123) 456-7890.",
+    "Where are you located?": "We are located at 123 Main Street, Anytown, USA.",
+    "What is your return policy?": "You can return any item within 30 days of purchase for a full refund. Please ensure the item is in its original condition.",
+    "Do you offer international shipping?": "Yes, we offer international shipping to most countries. Shipping fees may vary based on the destination.",
+    "Can I track my order?": "Yes, once your order is shipped, you will receive a tracking number via email.",
+    "How can I reset my password?": "You can reset your password by clicking on the 'Forgot Password' link on the login page and following the instructions.",
+    "What payment methods do you accept?": "We accept Visa, MasterCard, American Express, PayPal, and Apple Pay.",
+    "Do you have a physical store?": "Yes, we have a physical store located at 123 Main Street, Anytown, USA. You are welcome to visit us during our business hours.",
+    "How can I subscribe to your newsletter?": "You can subscribe to our newsletter by entering your email address in the subscription box at the bottom of our website.",
+    "What are the benefits of creating an account?": "Creating an account allows you to track your orders, save your shipping information, and receive exclusive offers and discounts.",
+    "How do I make a purchase?": "To make a purchase, simply add items to your cart, proceed to checkout, and follow the instructions to complete your order.",
+    "Can I change or cancel my order?": "If you need to change or cancel your order, please contact our customer support as soon as possible. We will do our best to accommodate your request.",
+    "How do I apply a discount code?": "You can apply a discount code during the checkout process. Enter the code in the 'Discount Code' box and click 'Apply'.",
+    "What should I do if I receive a damaged item?": "If you receive a damaged item, please contact our customer support immediately with your order number and a photo of the damaged item. We will assist you with a replacement or refund."
     # Add more key-value pairs here...
 }
 
