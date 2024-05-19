@@ -63,7 +63,7 @@ def get_chatbot_response(user_input):
         return "I'm sorry, I don't understand that. Could you please rephrase?"
 
 def main():
-    st.title("Simple Chatbot")
+    st.title("Chatbot")
 
     # Text input for user to type their message
     user_input = st.text_input("You: ")
