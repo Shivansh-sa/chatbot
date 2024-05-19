@@ -46,6 +46,7 @@ responses = {
     "how do I stay motivated?": "Set goals, break tasks into smaller steps, and reward yourself.",
     "can you help me with math homework?": "Sure! What math problem do you need help with?",
     "nitesh kaisa hai": "Azad hai vo ",
+    "Shivansh kaisa hai":"He is a good person",
     "What are your hours of operation?": "We are open from 9 AM to 5 PM, Monday through Friday.",
     "How can I contact customer support?": "You can reach our customer support by emailing support@example.com or calling (123) 456-7890.",
     "Where are you located?": "We are located at 123 Main Street, Anytown, USA.",
