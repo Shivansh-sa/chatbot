@@ -60,7 +60,7 @@ responses = {
     "How do I make a purchase?": "To make a purchase, simply add items to your cart, proceed to checkout, and follow the instructions to complete your order.",
     "Can I change or cancel my order?": "If you need to change or cancel your order, please contact our customer support as soon as possible. We will do our best to accommodate your request.",
     "How do I apply a discount code?": "You can apply a discount code during the checkout process. Enter the code in the 'Discount Code' box and click 'Apply'.",
-    "What should I do if I receive a damaged item?": "If you receive a damaged item, please contact our customer support immediately with your order number and a photo of the damaged item. We will assist you with a replacement or refund."
+    "What should I do if I receive a damaged item?": "If you receive a damaged item, please contact our customer support immediately with your order number and a photo of the damaged item. We will assist you with a replacement or refund.",
     # Add more key-value pairs here...
 }
 
